@@ -1,6 +1,9 @@
-#top-head{
-    color: brown;
+
+
+.border{
+    border-left: 9px solid rgb(228, 213, 77);
 }
+
 
 .top-text{
 
@@ -33,12 +36,14 @@ h1{
 }
 
 h4{
-    background-color:rgb(238, 63, 63);
+    background-color:tomato;
+    height: 7%;
+    width: 25%;
     margin-right: 75%;
-    padding-left: 5%;
-    color: white;
-    border: 3px solid rgb(145, 140, 140);
-    border-radius: 10px;
+    padding-left: 9%;
+    padding-top: 1%;
+    border: 3px solid rgb(255, 252, 252);
+    border-radius: 9px;
 }
 
 span{
