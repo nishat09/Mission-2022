@@ -114,6 +114,7 @@ span{
 .last-bottom{
     display: flex;
     margin-top: 17%;
+    margin-bottom: 7%;
     
 }
 
@@ -128,8 +129,33 @@ span{
     border-radius: 9px;
 }
 
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 15%;
+}
+
+#center{
+    text-align: center;
+    color: tomato;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-size: 2em;
+    margin-bottom: 8%;
+}
+
 #last-img{
     width: 60%;
     border: 5px solid white;
     border-radius: 15px;
+}
+
+.app-bottom{
+    display: flex;
+    margin-left: 10%;
+}
+
+.app-text{
+    margin-left: 9%;
 }
